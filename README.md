@@ -152,6 +152,5 @@ If you find this work useful, please cite:
 
 ## License and acknowledgements
 
-This repository builds on the [RealFill](https://github.com/thuanz123/realfill),
-with [MegaDepth: Learning Single-View Depth Prediction from Internet Photos](https://openaccess.thecvf.com/content_cvpr_2018/html/Li_MegaDepth_Learning_Single-View_CVPR_2018_paper.html). It retains the CreativeML Open RAIL++-M License;
+This repository builds on the [RealFill](https://github.com/thuanz123/realfill). It retains the CreativeML Open RAIL++-M License;
 see [LICENSE](LICENSE). We thank the RealFill, diffusers and MegaDepth authors for their work and released resources. We thank our collaborators, Pulak, Gil, Yan, Chenchen, Yutong, Chen, Kevin, Yan, Vernon, and Jieya and all the anonymous reviewers for their valuable support, discussion and feedback.
