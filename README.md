@@ -145,7 +145,7 @@ If you find this work useful, please cite:
 ```
 
 
-### MegaDepth dataset and RealFill
+### MegaDepth dataset
 
 [MegaDepth: Learning Single-View Depth Prediction from Internet Photos](https://openaccess.thecvf.com/content_cvpr_2018/html/Li_MegaDepth_Learning_Single-View_CVPR_2018_paper.html).
 
